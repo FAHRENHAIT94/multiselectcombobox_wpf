@@ -1,0 +1,23 @@
+﻿<Window x:Class="MULTİSELECTCOMBO.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MULTİSELECTCOMBO"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525" Loaded="Window_Loaded">
+    <Grid>
+        <StackPanel>
+            <ComboBox Height="30" Margin="10,10,10,10" Name="customcombo" Width="116">
+                <ComboBox.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Orientation="Horizontal">
+                            <CheckBox  Content="{Binding Data}" IsChecked="{Binding IsSelected,Mode=TwoWay}" Margin="0,2,3,2" Checked="CheckBox_Checked" Unchecked="CheckBox_Unchecked"></CheckBox>
+                        </StackPanel>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+            
+        </StackPanel>
+    </Grid>
+</Window>

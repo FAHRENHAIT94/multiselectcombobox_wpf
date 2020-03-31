@@ -1,0 +1,14 @@
+c:\users\oguzhank.seskayit\documents\visual studio 2015\Projects\MULTİSELECTCOMBO\MULTİSELECTCOMBO\bin\Debug\MULTİSELECTCOMBO.exe.config
+c:\users\oguzhank.seskayit\documents\visual studio 2015\Projects\MULTİSELECTCOMBO\MULTİSELECTCOMBO\obj\Debug\MULTİSELECTCOMBO.csprojResolveAssemblyReference.cache
+c:\users\oguzhank.seskayit\documents\visual studio 2015\Projects\MULTİSELECTCOMBO\MULTİSELECTCOMBO\obj\Debug\MainWindow.g.cs
+c:\users\oguzhank.seskayit\documents\visual studio 2015\Projects\MULTİSELECTCOMBO\MULTİSELECTCOMBO\obj\Debug\App.g.cs
+c:\users\oguzhank.seskayit\documents\visual studio 2015\Projects\MULTİSELECTCOMBO\MULTİSELECTCOMBO\obj\Debug\MULTİSELECTCOMBO_MarkupCompile.cache
+c:\users\oguzhank.seskayit\documents\visual studio 2015\Projects\MULTİSELECTCOMBO\MULTİSELECTCOMBO\obj\Debug\MULTİSELECTCOMBO_MarkupCompile.lref
+c:\users\oguzhank.seskayit\documents\visual studio 2015\Projects\MULTİSELECTCOMBO\MULTİSELECTCOMBO\bin\Debug\MULTİSELECTCOMBO.exe
+c:\users\oguzhank.seskayit\documents\visual studio 2015\Projects\MULTİSELECTCOMBO\MULTİSELECTCOMBO\bin\Debug\MULTİSELECTCOMBO.pdb
+c:\users\oguzhank.seskayit\documents\visual studio 2015\Projects\MULTİSELECTCOMBO\MULTİSELECTCOMBO\obj\Debug\MainWindow.baml
+c:\users\oguzhank.seskayit\documents\visual studio 2015\Projects\MULTİSELECTCOMBO\MULTİSELECTCOMBO\obj\Debug\MULTİSELECTCOMBO.g.resources
+c:\users\oguzhank.seskayit\documents\visual studio 2015\Projects\MULTİSELECTCOMBO\MULTİSELECTCOMBO\obj\Debug\MULTİSELECTCOMBO.Properties.Resources.resources
+c:\users\oguzhank.seskayit\documents\visual studio 2015\Projects\MULTİSELECTCOMBO\MULTİSELECTCOMBO\obj\Debug\MULTİSELECTCOMBO.csproj.GenerateResource.Cache
+c:\users\oguzhank.seskayit\documents\visual studio 2015\Projects\MULTİSELECTCOMBO\MULTİSELECTCOMBO\obj\Debug\MULTİSELECTCOMBO.exe
+c:\users\oguzhank.seskayit\documents\visual studio 2015\Projects\MULTİSELECTCOMBO\MULTİSELECTCOMBO\obj\Debug\MULTİSELECTCOMBO.pdb
